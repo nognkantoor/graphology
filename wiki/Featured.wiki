@@ -28,8 +28,8 @@ SQLite was chosen as the database. The primary factors in selecting this databas
 
 == Stand Alone Tools ==
 
-The initial tools will be written in python.
+The tools will be written in Python.
 
-== OpenOffice.org Extensions ==
+== OOo Extensions ==
 
-Once the bugs have been ironed out of the stand alone tools, they will be rewritten as extensions for OpenOffice.org.
+Once the bugs have been ironed out of the stand alone tools, they will be rewritten as extensions for OxygenOffice Professional.
