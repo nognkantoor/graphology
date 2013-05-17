@@ -51,5 +51,5 @@ Reducing all of the scores that are obtained, to a single score used by a specif
 == Forensic Document Examination ==
 
 Whilst this project is not focused on forensic document examination, some tools may help the professional forensic document examiner:
-# Transferring data from electronic digital calipers to a worksheet;
-# "Reading" a document and providing a comprehensive statistical analysis of the glyphs in the document.
+*Transferring data from electronic digital calipers to a worksheet;
+*"Reading" a document and providing a comprehensive statistical analysis of the glyphs in the document.
