@@ -46,10 +46,10 @@ An expert system will be written, to convert the physically measurable scores to
 
 === The Hard Part ===
 
-Reducing all of the scores that are obtained, to a single score used by a specific system, will require the inclusion of a fuzzy logic sub-system.  This will need to be written.   It may require original research. 
+Reducing all of the scores that are obtained, to a single score used by a specific system, will require the inclusion of a fuzzy logic sub-system.  This will need to be written.   This may require original research. 
 
 == Forensic Document Examination ==
 
 Whilst this project is not focused on forensic document examination, some tools may help the professional forensic document examiner:
-*Transferring data from electronic digital calipers to a worksheet;
-*"Reading" a document and providing a comprehensive statistical analysis of the glyphs in the document.
+  * ''Transferring data from digital calipers to the software";
+  * ''Providing statistical data about the glyphs within the document';
