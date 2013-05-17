@@ -14,17 +14,21 @@ There is no generally available software that meets those four criteria.  This p
 
 === Spreadsheets ===
 
-Open Document Format was chosen for the spreadsheets as it is an ISO standard.  Tools that can utilize this format are freely available.  
+The Open Document Format was chosen for the spreadsheets as it is an ISO standard. (ISO/IEC 26300:2006/Amd 1:2012 - Open Document Format for Office Applications (OpenDocument) v1.1.)  Tools that can utilize this format are freely available.  This file format is also unencumbered by patents.
 
-These will also be delivered as OpenOffice.org Templates.
+ISO/IEC 29500 is, according to its own specifications, suitable only for documents in a legacy file format. That eliminates it from consideration for documents that are to be created for future usage. This file format is covered by both patents and trade secrets.
 
 === Databases ===
 
 SQLite was chosen as the database. The primary factors in selecting this database engine are:
   * All tables are combined into one file --- easy transportability of individual databases;
+  * It is distributed under a public domain license;
+  * It is not encumbered by any known patents or trade secrets;
   * Platform independence;
     * It has been ported to a number of operating systems;
     * It has been ported to a number of programming languages;
+
+
 
 === Stand Alone Tools ===
 
