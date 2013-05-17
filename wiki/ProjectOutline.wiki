@@ -36,4 +36,4 @@ The tools will be written in Python.
 
 === OOo Extensions ===
 
-Once the bugs have been ironed out of the stand alone tools, they will be rewritten as extensions for OxygenOffice Professional.
+Once the bugs have been ironed out of the stand alone tools, they will be rewritten as extensions for LibreOffice and Apache Open Office.
