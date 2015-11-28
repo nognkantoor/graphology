@@ -1,0 +1,35 @@
+Project Outline
+
+# Introduction #
+
+The four freedoms are:
+  * Freedom 0: The freedom to run the program for any purpose.
+  * Freedom 1: The freedom to study and modify the program.
+  * Freedom 2: The freedom to copy the program so you can help your neighbor.
+  * Freedom 3: The freedom to improve the program, and release your improvements to the public, so that the whole community benefits.
+
+There is no generally available software that meets those four criteria.  This projects attempts to remedy that situation.
+
+# Details #
+
+## Spreadsheets ##
+
+Open Document Format was chosen for the spreadsheets as it is an ISO standard.  Tools that can utilize this format are freely available.
+
+These will also be delivered as OpenOffice.org Templates.
+
+## Databases ##
+
+SQLite was chosen as the database. The primary factors in selecting this database engine are:
+  * All tables are combined into one file --- easy transportability of individual databases;
+  * Platform independence;
+    * It has been ported to a number of operating systems;
+    * It has been ported to a number of programming languages;
+
+## Stand Alone Tools ##
+
+The tools will be written in Python.
+
+## OOo Extensions ##
+
+Once the bugs have been ironed out of the stand alone tools, they will be rewritten as extensions for OxygenOffice Professional.
