@@ -73,6 +73,24 @@ An expert system will be written, to convert the physically measurable scores to
 
 Reducing all of the scores that are obtained, to a single score used by a specific system, will require the inclusion of a fuzzy logic sub-system.  This will need to be written.   This may require original research. 
 
+### Systems that combine both Integrative Graphology and Holistic Graphology ##
+
+** Erika Karoh's _Step By Step System_;
+** DBTL/PPP;
+** Leslie King's _Behavioural Graphology_;
+
+This will enable one to obtain the raw scores for primary traits.
+
+As a side effect, one will be able to construct their own "trait norms", by aggregating the data from as many analyzed reports as one has done, and desires to include.
+
+Other systems that combine both approaches can be added at either this stage, or a later stage.
+
+An expert system will be written, to convert the physically measurable scores to the format used by each of those systems of handwriting analysis. As a side effect, this expert system will also be able to "translate" raw scores from one system, into raw scores for a different system of handwriting analysis.
+
+#### The Hard Part ####
+
+Reducing all of the scores that are obtained, to a single score used by a specific system, will require the inclusion of a fuzzy logic sub-system.  This will need to be written.   This may require original research. 
+
 ### Forensic Document Examination ###
 
 Whilst this project is not focused on forensic document examination, some tools may help the professional forensic document examiner:
