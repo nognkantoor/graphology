@@ -7,7 +7,7 @@ This project is in the beta stage.
 ## Contributions, etc.
 
 How to contribute, including the _Contributor Code of Ethics_, can be found in the repo wiki: 
-https://github.com/nognkantoor/graphology/wiki.
+https://github.com/nognkantoor/graphology/wiki/Vanguard-Code-of-Ethics#vanguard-code-of-ethics-for-professional-graphologists-in-the-united-states.
 
 ## Project Requirements ##
 
